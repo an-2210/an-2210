@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=FF7A1A&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Anwesha+Laha+%F0%9F%91%8B;Full-stack+%C2%B7+ML+%C2%B7+Systems;Computer+vision%2C+bots%2C+and+tiny+web+tools" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=FF7A1A&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Anwesha+Laha+%F0%9F%91%8B;CSE+(InfoSec)+%40+VIT+%C2%B7+Data+Science+%40+IIT+Madras;ML+%C2%B7+Computer+Vision+%C2%B7+Full-stack;Open-source+contributor" alt="Typing intro" />
 
-**CS student building across web, machine learning and systems — from YOLO-powered CCTV to single-file web utilities.**
+📍 Ahmedabad, India
 
 [![Followers](https://img.shields.io/github/followers/an-2210?style=flat&color=00D4E6&labelColor=111)](https://github.com/an-2210?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=an-2210&color=ff7a1a&style=flat&label=profile+views)](https://github.com/an-2210)
@@ -14,40 +14,58 @@
 ### `$ whoami`
 
 ```yaml
-name:      Anwesha Laha
-focus:     [full-stack development, machine learning, systems programming]
-building:  AI surveillance, gamified study platforms, a desktop-OS-style portfolio
-ask_me:    Next.js + Supabase, OpenCV / YOLOv8, Discord bots, vanilla JS tools
+name:       Anwesha Laha
+studying:
+  - B.Tech CSE (Information Security) @ VIT Vellore    # CGPA 9.07
+  - B.S. Data Science @ IIT Madras                     # CGPA 7.75
+interests:  [machine learning, NLP, computer vision, full-stack, security]
+open_source: [GirlScript Summer of Code '25, Social Summer of Code '26]
 ```
 
 ---
 
-### 🚀 Flagship Projects
+### 💼 Experience
 
-| | Project | What it does | Stack |
-|---|---|---|---|
-| 👁️ | **[SentinelAI](https://github.com/an-2210/SentinelAI)** | AI CCTV surveillance — multi-camera feeds, zone monitoring, dwell-time tracking, incident logging | Python · YOLOv8 · OpenCV · Streamlit |
-| 📚 | **[Study Rooms](https://github.com/an-2210/study-rooms)** | Anti-procrastination platform for CAT / GATE / UPSC aspirants — streak engine, leaderboards, AI accountability bot | Next.js 14 · Supabase · Tailwind · Vercel |
-| 🖥️ | **[AnweshaOS](https://github.com/an-2210/AnweshaOS)** | Portfolio that looks and behaves like a desktop operating system | HTML · CSS · JS |
-| 🧰 | **[One File Tools](https://github.com/an-2210/one-file-tools)** | Self-contained single-file HTML utilities — palette generator, favicon maker, aspect-ratio calculator | HTML · CSS · JS |
+**Data & Digital Intern — Protiviti India** · *May 2026 – Jul 2026*
+- Built an NLP sentiment analyser for automated text classification
+- Built an AI-powered CCTV Copilot combining computer vision with LLMs
+- Developed a Global Vibrancy Tool clone with interactive geospatial analytics
+- Engineered a recommendation engine using Bayesian inference and cosine similarity
 
-### 🧪 More Builds
-
-| | Project | What it does | Stack |
-|---|---|---|---|
-| 🤖 | **[discordchatbot](https://github.com/an-2210/discordchatbot)** | Discord bot that manages reminders, summarises long messages, answers questions and plays music | Python |
-| 🧾 | **[invoiceai](https://github.com/an-2210/invoiceai)** | AI-assisted invoice processing | Python |
-| 🎨 | **[aidrawingboard](https://github.com/an-2210/aidrawingboard)** | Browser drawing board with AI features | HTML · JS |
-| 🎬 | **[MovieTicketBooking](https://github.com/an-2210/MovieTicketBooking)** | Movie ticket booking web app | JavaScript |
+**Summer Trainee — IIT Kharagpur** · *May 2025 – Jun 2025*
+- Built ML models in R using probability theory and linear regression
+- Analysed research datasets to extract actionable insights
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,cpp&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,vercel,opencv,discord,git,linux,vscode&theme=dark" />
-</p>
+| | Project | What it does | Stack |
+|---|---|---|---|
+| 🧱 | **[PrismaBuild](https://github.com/an-2210/PrismaBuild)** · [Live](https://YOUR-PRISMABUILD-DEMO) | No-code drag-and-drop website builder with live preview and responsive page generation | React · JavaScript · HTML · CSS |
+| 🎨 | **[AI Drawing Board](https://github.com/an-2210/aidrawingboard)** | Real-time canvas drawing platform with AI-powered sketch recognition | HTML · CSS · JavaScript |
+| 🎯 | **[Recommendation Engine](https://github.com/an-2210/RecommendationEngine)** | Personalised recommendations from purchase patterns using Bayesian inference, conditional probability and cosine similarity | Python · ML |
+
+---
+
+### 🌱 Open Source
+
+| Program | Year | Highlight |
+|---|---|---|
+| **GirlScript Summer of Code** | 2025 | Ranked **246 / 3414** contributors |
+| **Social Summer of Code** | 2026 | Contributed to **10+ repos** — features, bug fixes, UI enhancements |
+
+---
+
+### 🛠️ Skills
+
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=cpp,java,python,js,c,mysql&theme=dark" /></p>
+
+**Frameworks & Tools**
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,git,github,vscode&theme=dark" /></p>
+
+**Core:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · Machine Learning · NLP · Computer Vision
 
 ---
 
@@ -70,8 +88,8 @@ ask_me:    Next.js + Supabase, OpenCV / YOLOv8, Discord bots, vanilla JS tools
 
 <p>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-FF7A1A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/AnweshaOS-00D4E6?style=for-the-badge&logo=windowsterminal&logoColor=black" /></a>
+<a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:anwesha.laha.2020@gmail.com"><img src="https://img.shields.io/badge/Email-00D4E6?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 <div align="center"><sub>⚡ built one commit at a time</sub></div>
