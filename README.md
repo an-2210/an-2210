@@ -42,8 +42,8 @@ open_source: [GirlScript Summer of Code '25, Social Summer of Code '26]
 
 | | Project | What it does | Stack |
 |---|---|---|---|
-| 🧱 | **[PrismaBuild](https://github.com/an-2210/PrismaBuild)** · [Live](https://YOUR-PRISMABUILD-DEMO) | No-code drag-and-drop website builder with live preview and responsive page generation | React · JavaScript · HTML · CSS |
-| 🎨 | **[AI Drawing Board](https://github.com/an-2210/aidrawingboard)** | Real-time canvas drawing platform with AI-powered sketch recognition | HTML · CSS · JavaScript |
+| 🧱 | **[PrismaBuild](https://github.com/an-2210/PrismaBuild)** ·| No-code drag-and-drop website builder with live preview and responsive page generation | React · JavaScript · HTML · CSS |
+| 🔐 | **[CCTV-Copilot](https://github.com/an-2210/cctvcopilot)** | Real-time canvas drawing platform with AI-powered sketch recognition | HTML · CSS · JavaScript |
 | 🎯 | **[Recommendation Engine](https://github.com/an-2210/RecommendationEngine)** | Personalised recommendations from purchase patterns using Bayesian inference, conditional probability and cosine similarity | Python · ML |
 
 ---
@@ -53,7 +53,7 @@ open_source: [GirlScript Summer of Code '25, Social Summer of Code '26]
 | Program | Year | Highlight |
 |---|---|---|
 | **GirlScript Summer of Code** | 2025 | Ranked **246 / 3414** contributors |
-| **Social Summer of Code** | 2026 | Contributed to **10+ repos** — features, bug fixes, UI enhancements |
+| **Social Summer of Code** | 2026 | Ranked **114 / 1000+** contributors |
 
 ---
 
@@ -87,8 +87,7 @@ open_source: [GirlScript Summer of Code '25, Social Summer of Code '26]
 ### 📫 Connect
 
 <p>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/anwesha-laha-9456ab2a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:anwesha.laha.2020@gmail.com"><img src="https://img.shields.io/badge/Email-00D4E6?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
